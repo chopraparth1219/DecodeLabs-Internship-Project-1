@@ -63,7 +63,7 @@ This project demonstrates:
 
 ## How to Run
 
-1. Clone the repository or download the script `project1_eda.py`.
+1. Clone the repository or download the script `project1.py`.
 2. Ensure `data1.csv` is in the same folder.
 3. Install required packages:
    ```bash
